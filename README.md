@@ -1,3 +1,3 @@
 # radiacaonet
-![Logo Radiação.Net](/logos/logo-nova-cor-200.png)
+![Logo Radiação.Net](/logos/logo-nova-horizontal-cor-branco.png)
 Para poder facilitar as coisas para a equipe da **Radiação.Net**, nós criamos esse diretório. Nele nós iremos disponibilizar alguns recursos e dicas.
